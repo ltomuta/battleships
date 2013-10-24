@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="../qml/AppWindow.qml">../qml/Harmattan.qml</file>
+        <file alias="../qml/InfoView.qml">../qml/HarmattanInfoView.qml</file>
+    </qresource>
+</RCC>

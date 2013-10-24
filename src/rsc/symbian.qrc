@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="../qml/AppWindow.qml">../qml/Symbian.qml</file>
+        <file alias="../qml/InfoView.qml">../qml/SymbianInfoView.qml</file>
+    </qresource>
+</RCC>
