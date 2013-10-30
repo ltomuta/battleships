@@ -8,12 +8,11 @@ battleships are on the 10 x 10 grid and sink them before the opponent
 sinks your ships. The game has both single player and two-player modes. In the
 two-player mode, two devices are connected over a Bluetooth connection.
 
-This example application is hosted in Nokia Developer Projects:
-- http://projects.developer.nokia.com/battleships
+This example application is hosted in GitHub:
+https://github.com/nokia-developer/battleships
 
 For more information on implementation and porting, visit the wiki pages:
-- http://projects.developer.nokia.com/battleships/wiki
-- http://projects.developer.nokia.com/battleships/wiki/DesignConsiderations
+https://github.com/nokia-developer/battleships/wiki
 
 
 1. Usage
@@ -109,9 +108,7 @@ Qt Quick Components 1.0 or higher is required.
 
 You can install and run the application on the device by using the Qt SDK.
 Open the project in the SDK, set up the correct target (depending on the device
-platform), and click the Run button. For more details about this approach,
-visit the Qt Getting Started section at Nokia Developer
-(http://www.developer.nokia.com/Develop/Qt/Getting_started/).
+platform), and click the Run button.
 
 5.3 Symbian device
 ------------------
@@ -144,17 +141,10 @@ application menu and launch the application by tapping the icon.
 
 See the license text file delivered with this project. The license file is also
 available online at
-http://projects.developer.nokia.com/battleships/browser/trunk/Licence.txt
+https://github.com/nokia-developer/battleships/blob/master/Licence.txt
 
 
-7. Related documentation
--------------------------------------------------------------------------------
-Qt Quick Components
-- http://doc.qt.nokia.com/qt-components-symbian-1.0/index.html
-- http://harmattan-dev.nokia.com/docs/library/html/qt-components/qt-components.html
-
-
-8. Version history
+7. Version history
 -------------------------------------------------------------------------------
 
 1.0 Added new graphics, improved the UX.
